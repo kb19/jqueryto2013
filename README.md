@@ -129,7 +129,6 @@ minimatch?
 - Paul Lewis’ article: On Translate3D & Layer Creation Hacks
     <br>→ http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/
 - checkout the Chrome console doc on Google 
-
 - XCode’s Network Link Conditioner Tool
     <br>→ simulates shitty connections, good ones etc.
 - multi-device testing
