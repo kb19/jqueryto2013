@@ -3,11 +3,11 @@ jqueryto2013
 
 
 
-Promises: The Good, The Bad and The Ugly by Dan Heberden
+<strong>Promises: The Good, The Bad and The Ugly by Dan Heberden</strong
 - jQuery’s .deferred implementation of the Promise API
 - underscore has a port (?) of .deferred in _.deferred()
 
-Gone in 60 Seconds by Addy Osmani
+<strong>Gone in 60 Seconds by Addy Osmani</strong>
 - optimal frame rate for smooth websites → 60Hz
 - CSS features like box-shadow / box-radius can have a negative impact on performance by lowering the frame rate and increasing the repaints needed
 - lots of tools (some experimental) to troubleshoot site performance in Chrome
@@ -18,7 +18,7 @@ continuous painting mode
 - telemetry (?)
 - remote debugging in Chrome using ADB + Chrome Dev Tools
 
-Holy Grail: Javascript on the Client and Server by Tim Branyen
+<strong>Holy Grail: Javascript on the Client and Server by Tim Branyen</strong>
 - Different applications types
 SPA → TweetDeck
 ServerSide → GitHub
@@ -27,14 +27,14 @@ ServerSide → GitHub
 - AirBnB post on Render (http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
 - example of presentation → https://github.com/tbranyen/previewcode.com
 
-Angular MVW (Model View Whatever) by Pearl Chen
+<strong>Angular MVW (Model View Whatever) by Pearl Chen</strong>
 - Yeoman + Grunt + Bowser (Twitter)
 - Angular comes with unit testing integrated
 - appliness.com →  digital magazine for web devs
 - I think Yelp uses Angular (ng- attributes)
 - What goes on under the hood in terms of DOM manipulation and how does it affect performance vs. jQuery?
 
-Development and Prototyping by Monika Piotrowicz
+<strong>Development and Prototyping by Monika Piotrowicz</strong>
 - including devs in the design process helps avoid headaches when it comes to implementation
 “stagger” approach is BAD → designers may create crazy interactions / ideas and devs have no idea
 - @ JetCooper they have ‘pods’ → a dev is paired with a designer for the whole process
@@ -48,7 +48,7 @@ Development and Prototyping by Monika Piotrowicz
 - when discussing issues with other developers become an ADVOCATE
 be CONSTRUCTIVE
 
-Offline Mobile Wed App Arch + Design by Boaz Sender
+<strong>Offline Mobile Wed App Arch + Design by Boaz Sender</strong>
 - “traunch” data into separate units instead of trying to pipe it in all at once
 - Leafleft.js was most performant on mobile browsers
 - Appache → pain to use 
@@ -56,7 +56,7 @@ define what gets cached
 appcache-internals → Chrome bookmarklet
 - DON’T try to copy native design over to mobile web
 
-Fixing Broken Windows by Sam Breed
+<strong>Fixing Broken Windows by Sam Breed</strong>
 - book: “The Pragmatic Programmer”
 Mixed spaces / tabs / trailing whitespace
 decide on a convention to use!
@@ -80,7 +80,7 @@ multiple doc readys? NO!
 don’t UA sniff
 - THINK CRITICALLY!
 
-Developing with Grunt by Dan Heberden
+<strong>Developing with Grunt by Dan Heberden</strong>
 - gruntjs.com/plugins → good repo for all sorts of plugins
 minimatch?
 - Grunt devtools plugin for Chrome
@@ -88,7 +88,7 @@ sits in your Dev Tools
 - #grunt on Freenode IRC
 - you can create a Grunt task to run nodemon
 
-Front-End Diaspora by Paul Irish
+<strong>Front-End Diaspora by Paul Irish</strong>
 - use the timeline trace for performance
 - new browser feature → requestAutocomplete() → pops up an auto-complete dialog
 useful for ecommerce solutions
