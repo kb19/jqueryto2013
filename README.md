@@ -60,25 +60,25 @@ be CONSTRUCTIVE
 - book: “The Pragmatic Programmer”<br>
 <br>
 1) Mixed spaces / tabs / trailing whitespace
-    <br>→ decide on a convention to use!
+        <br>→ decide on a convention to use!
 <br>2) Have a style guide
-    <br>→ jQuery style guide
-    <br>→ idiomatic.js
+        <br>→ jQuery style guide
+        <br>→ idiomatic.js
 <br>3) Know your VCS
-    <br>→ use pull requests for code reviews
+        <br>→ use pull requests for code reviews
 <br>4) Avoid monolithic files!
-    <br>→ leverage the module pattern
+        <br>→ leverage the module pattern
 <br>5) Modules
-    <br>→ requireJS / AMD
+        <br>→ requireJS / AMD
 <br>6) Leave $.fn alone unless you really mean it
 <br>7) Dead code → have a ‘remove commit’ instead
 <br>8) Writing testable code
-    <br>→ structure app around ojbect
+        <br>→ structure app around ojbect
 <br>9) Don’t retest jQuery
 <br>10) Have a build step! Only ship the code that changes (i.e. not jQuery / big libraries)
 <br>11) Don’t modify native objects with prototype (i.e. String.prototype)
-    <br>→ multiple doc readys? NO!
-    <br>→ don’t UA sniff
+        <br>→ multiple doc readys? NO!
+        <br>→ don’t UA sniff
 - THINK CRITICALLY!
 
 <strong>Developing with Grunt by Dan Heberden</strong>
