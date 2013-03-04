@@ -60,7 +60,7 @@ be CONSTRUCTIVE
 - book: “The Pragmatic Programmer”<br>
 <br>
 1) Mixed spaces / tabs / trailing whitespace
-        <br>→ decide on a convention to use!
+            <br>→ decide on a convention to use!
 <br>2) Have a style guide
         <br>→ jQuery style guide
         <br>→ idiomatic.js
