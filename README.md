@@ -57,7 +57,7 @@ be CONSTRUCTIVE
 - DON’T try to copy native design over to mobile web
 
 <strong>Fixing Broken Windows by Sam Breed</strong>
-- book: “The Pragmatic Programmer”
+- book: “The Pragmatic Programmer”<br>
 1) Mixed spaces / tabs / trailing whitespace
     <br>→ decide on a convention to use!
 2) Have a style guide
