@@ -60,27 +60,46 @@ be CONSTRUCTIVE
 - book: “The Pragmatic Programmer”<br>
 <ol>
 <li>
-    Mixed spaces / tabs / trailing whitespace
-            <br>→ decide on a convention to use!
+Mixed spaces / tabs / trailing whitespace
+    <br>→ decide on a convention to use!
 </li>
-<br>2) Have a style guide
-        <br>→ jQuery style guide
-        <br>→ idiomatic.js
-<br>3) Know your VCS
-        <br>→ use pull requests for code reviews
-<br>4) Avoid monolithic files!
-        <br>→ leverage the module pattern
-<br>5) Modules
-        <br>→ requireJS / AMD
-<br>6) Leave $.fn alone unless you really mean it
-<br>7) Dead code → have a ‘remove commit’ instead
-<br>8) Writing testable code
-        <br>→ structure app around ojbect
-<br>9) Don’t retest jQuery
-<br>10) Have a build step! Only ship the code that changes (i.e. not jQuery / big libraries)
-<br>11) Don’t modify native objects with prototype (i.e. String.prototype)
-        <br>→ multiple doc readys? NO!
-        <br>→ don’t UA sniff
+<li>
+Have a style guide
+    <br>→ jQuery style guide
+    <br>→ idiomatic.js
+</li>
+<li>
+Know your VCS
+    <br>→ use pull requests for code reviews
+</li>
+</li>Avoid monolithic files!
+   <br>→ leverage the module pattern
+</li>
+<li>
+Modules
+    <br>→ requireJS / AMD
+</li>
+<li>
+Leave $.fn alone unless you really mean it
+</li>
+<li>
+Dead code → have a ‘remove commit’ instead
+</li>
+<li>
+Writing testable code
+    <br>→ structure app around ojbect
+</li>
+<li>
+Don’t retest jQuery
+</li>
+<li>
+Have a build step! Only ship the code that changes (i.e. not jQuery / big libraries)
+</li>
+<li>
+Don’t modify native objects with prototype (i.e. String.prototype)
+    <br>→ multiple doc readys? NO!
+    <br>→ don’t UA sniff
+</li>
 </ol>
 - THINK CRITICALLY!
 
