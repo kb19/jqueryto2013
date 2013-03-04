@@ -58,8 +58,8 @@ be CONSTRUCTIVE
 
 <strong>Fixing Broken Windows by Sam Breed</strong>
 - book: “The Pragmatic Programmer”<br>
-<br>
-1) Mixed spaces / tabs / trailing whitespace
+<ol>
+<li>Mixed spaces / tabs / trailing whitespace</li>
             <br>→ decide on a convention to use!
 <br>2) Have a style guide
         <br>→ jQuery style guide
@@ -79,6 +79,7 @@ be CONSTRUCTIVE
 <br>11) Don’t modify native objects with prototype (i.e. String.prototype)
         <br>→ multiple doc readys? NO!
         <br>→ don’t UA sniff
+</ol>
 - THINK CRITICALLY!
 
 <strong>Developing with Grunt by Dan Heberden</strong>
