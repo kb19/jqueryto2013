@@ -11,9 +11,9 @@ jqueryto2013
 - optimal frame rate for smooth websites → 60Hz
 - CSS features like box-shadow / box-radius can have a negative impact on performance by lowering the frame rate and increasing the repaints needed
 - lots of tools (some experimental) to troubleshoot site performance in Chrome
-    →show paint rectangles
-    →show composite layer borders
-    →continuous painting mode
+    <br>→show paint rectangles
+    <br>→show composite layer borders
+    <br>→continuous painting mode
 - do performance profiling in incognite mode → plugins can affect profiles
 - telemetry (?)
 - remote debugging in Chrome using ADB + Chrome Dev Tools
