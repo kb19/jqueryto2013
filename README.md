@@ -1,4 +1,4 @@
-#jqueryto2013
+notes from #jqueryto2013
 ============
 
 
