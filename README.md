@@ -115,7 +115,7 @@ minimatch?
 - chrome://flags → turns on dev tool experiments
 - Snippets → cool feature that saves JS snippets
 - styled console logs are possible
-
+ 
 <strong>Web References</strong><br>
 →http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/<br>
 →http://blog.alexmaccaw.com/one-click-signups-and-purchasing<br>
