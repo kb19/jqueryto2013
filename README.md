@@ -11,17 +11,17 @@ jqueryto2013
 - optimal frame rate for smooth websites → 60Hz
 - CSS features like box-shadow / box-radius can have a negative impact on performance by lowering the frame rate and increasing the repaints needed
 - lots of tools (some experimental) to troubleshoot site performance in Chrome
-show paint rectangles
-show composite layer borders
-continuous painting mode
+    →show paint rectangles
+    →show composite layer borders
+    →continuous painting mode
 - do performance profiling in incognite mode → plugins can affect profiles
 - telemetry (?)
 - remote debugging in Chrome using ADB + Chrome Dev Tools
 
 <strong>Holy Grail: Javascript on the Client and Server by Tim Branyen</strong>
 - Different applications types
-SPA → TweetDeck
-ServerSide → GitHub
+    →SPA → TweetDeck
+    →ServerSide → GitHub.com
 - PhantomJS (headless browser)
 - Rendr @ Twitter
 - AirBnB post on Render (http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
@@ -52,14 +52,14 @@ be CONSTRUCTIVE
 - “traunch” data into separate units instead of trying to pipe it in all at once
 - Leafleft.js was most performant on mobile browsers
 - Appache → pain to use 
-define what gets cached
-appcache-internals → Chrome bookmarklet
+    →define what gets cached
+    →appcache-internals → Chrome bookmarklet
 - DON’T try to copy native design over to mobile web
 
 <strong>Fixing Broken Windows by Sam Breed</strong>
 - book: “The Pragmatic Programmer”
-Mixed spaces / tabs / trailing whitespace
-decide on a convention to use!
+1) Mixed spaces / tabs / trailing whitespace
+    →decide on a convention to use!
 Have a style guide
 jQuery style guide
 idiomatic.js
