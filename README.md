@@ -116,8 +116,8 @@ BrowserStack, DeviceAnywhere
 - Snippets → cool feature that saves JS snippets
 - styled console logs are possible
 
- Web References
-http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/
-http://blog.alexmaccaw.com/one-click-signups-and-purchasing
-http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product
-https://github.com/tbranyen/previewcode.com
+ Web References<br>
+http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/<br>
+http://blog.alexmaccaw.com/one-click-signups-and-purchasing<br>
+http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product<br>
+https://github.com/tbranyen/previewcode.com<br>
