@@ -61,22 +61,22 @@ be CONSTRUCTIVE
 <br>
 1) Mixed spaces / tabs / trailing whitespace
     <br>→ decide on a convention to use!
-2) Have a style guide
+<br>2) Have a style guide
     <br>→ jQuery style guide
     <br>→ idiomatic.js
-3) Know your VCS
+<br>3) Know your VCS
     <br>→ use pull requests for code reviews
-4) Avoid monolithic files!
+<br>4) Avoid monolithic files!
     <br>→ leverage the module pattern
-5) Modules
+<br>5) Modules
     <br>→ requireJS / AMD
-6) Leave $.fn alone unless you really mean it
-7) Dead code → have a ‘remove commit’ instead
-8) Writing testable code
+<br>6) Leave $.fn alone unless you really mean it
+<br>7) Dead code → have a ‘remove commit’ instead
+<br>8) Writing testable code
     <br>→ structure app around ojbect
-9) Don’t retest jQuery
-10) Have a build step! Only ship the code that changes (i.e. not jQuery / big libraries)
-11) Don’t modify native objects with prototype (i.e. String.prototype)
+<br>9) Don’t retest jQuery
+<br>10) Have a build step! Only ship the code that changes (i.e. not jQuery / big libraries)
+<br>11) Don’t modify native objects with prototype (i.e. String.prototype)
     <br>→ multiple doc readys? NO!
     <br>→ don’t UA sniff
 - THINK CRITICALLY!
