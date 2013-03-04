@@ -59,10 +59,10 @@ be CONSTRUCTIVE
 <strong>Fixing Broken Windows by Sam Breed</strong>
 - book: “The Pragmatic Programmer”<br>
 1) Mixed spaces / tabs / trailing whitespace
-    <br>→ decide on a convention to use!
+    → decide on a convention to use!
 2) Have a style guide
-    <br>→ jQuery style guide
-    <br>→ idiomatic.js
+    → jQuery style guide
+    → idiomatic.js
 3) Know your VCS
     <br>→ use pull requests for code reviews
 4) Avoid monolithic files!
