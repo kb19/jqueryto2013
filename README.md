@@ -59,8 +59,10 @@ be CONSTRUCTIVE
 <strong>Fixing Broken Windows by Sam Breed</strong>
 - book: “The Pragmatic Programmer”<br>
 <ol>
-<li>Mixed spaces / tabs / trailing whitespace</li>
+<li>
+    Mixed spaces / tabs / trailing whitespace
             <br>→ decide on a convention to use!
+</li>
 <br>2) Have a style guide
         <br>→ jQuery style guide
         <br>→ idiomatic.js
