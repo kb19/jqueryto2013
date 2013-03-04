@@ -72,7 +72,7 @@ Have a style guide
 Know your VCS
     <br>→ use pull requests for code reviews
 </li>
-</li>Avoid monolithic files!
+<li>Avoid monolithic files!
    <br>→ leverage the module pattern
 </li>
 <li>
