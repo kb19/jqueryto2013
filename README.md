@@ -99,7 +99,7 @@ minimatch?
 
 <i>Scrolling Performance</i>
 - scrolling is important, especially on mobile
-    <br>→ root of some mobile vs native debates
+    <br>→ root of some mobile vs native debates 
 - always serve images @ proper size
 - -webkit-transofrm = translateZ(0)
     <br>→ paint hack that avoids unnecessarily repainting objects
