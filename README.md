@@ -62,8 +62,8 @@ be CONSTRUCTIVE
 1) Mixed spaces / tabs / trailing whitespace
     <br>→ decide on a convention to use!
 2) Have a style guide
-    → jQuery style guide
-    → idiomatic.js
+    <br>→ jQuery style guide
+    <br>→ idiomatic.js
 3) Know your VCS
     <br>→ use pull requests for code reviews
 4) Avoid monolithic files!
