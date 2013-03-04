@@ -1,9 +1,9 @@
-notes from #jqueryto2013
+\#jqueryTO2013 (feel free to add additional notes)
 ============
 
 
 
-<strong>Promises: The Good, The Bad and The Ugly by Dan Heberden</strong
+<strong>Promises: The Good, The Bad and The Ugly by Dan Heberden</strong>
 - jQuery’s .deferred implementation of the Promise API
 - underscore has a port (?) of .deferred in _.deferred()
 
