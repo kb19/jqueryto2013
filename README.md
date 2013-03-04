@@ -118,6 +118,6 @@ BrowserStack, DeviceAnywhere
 
  Web References
 http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/
-http://blog.alexmaccaw.com/one-click-signups-and-purchasing 
+http://blog.alexmaccaw.com/one-click-signups-and-purchasing
 http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product
 https://github.com/tbranyen/previewcode.com
